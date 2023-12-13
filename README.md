@@ -29,19 +29,6 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 - Local development workflow from the filesystem with a local GraqhQL server.
 - A [TinaCMS](https://app.tina.io) account for live editing.
 
-## Local Development
-
-Install the project's dependencies:
-
-```
-yarn install
-```
-
-Run the project locally:
-
-```
-yarn dev
-```
 
 ### Local URLs
 
